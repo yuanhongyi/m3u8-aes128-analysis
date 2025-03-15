@@ -5,6 +5,8 @@ Analysis for 32byte key AES128 encryption of Polyv for .ts file in hls
 
 > 本人仅对视频加密方式感兴趣，并没有对视频进行传播，仅供学习交流使用
 
+分析过程见[analysis.md](analysis.md)
+
 `1.py` turn encrypted .ts file to decrypted .ts file
 `1.py` 将加密的.ts文件转换为解密的.ts文件
 
